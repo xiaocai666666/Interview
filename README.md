@@ -11,3 +11,4 @@ http://localhost:8080/user/login?username=root&password=123456
 ![1714056928696](https://github.com/xiaocai666666/Interview/assets/86215045/1152a6a5-c5ae-4630-a617-2f40aef1ab09)
 
 # 第二题
+之前用的是vue和微信小程序来实现前端，没有用过react，所以用一天时间大致学了一下，最终给出了解答，见：task2.jsx
